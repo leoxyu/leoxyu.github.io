@@ -23,7 +23,6 @@ function Hero() {
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
-            <h1>SITE STILL WIP</h1>
             <h1>hi, im leo</h1>
             <h5>full stack software developer</h5>
             <p>
